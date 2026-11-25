@@ -1,0 +1,27 @@
+body{
+    background-color: #000;
+}
+.calculator{
+    border: 1px solid yellow;
+    padding: 25px;
+    width: 370px;
+}
+#screen{
+    padding: 20px;
+    background-color: aliceblue;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.buttonlist{
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    padding: 30px;
+    font-size: 30px;
+    border-radius: 50%;
+}
+.equal{
+    width: 170px;
+}
